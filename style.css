@@ -1,0 +1,24 @@
+h1 {
+    font-style: italic;
+    color: blue
+}
+
+img {
+    height: 200px; 
+}
+
+.hobbies {
+    background-color: yellow;
+}
+
+#rcorner1 {
+border-radius: 30px 30px 30px 30px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
